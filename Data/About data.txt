@@ -1,0 +1,7 @@
+open source gravity data obtained from the site https://gdr.openei.org/submissions/858
+
+The Glass Buttes Geothermal Exploration Project, 
+located in Lake County, Oregon for ORMAT Technologies Inc.
+The survey was conducted from 21 June 2010 to 26 June 2010
+
+A total of 559 gravity stations, include Easthing, Northing, Elevation, Gobs and CBA
